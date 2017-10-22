@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[packages]
+Cython = "*"
+line_profiler = "*"
+pudb = "*"
+profilehooks = "*"
+pytest = "*"
+toolz = "*"
+hypothesis = "*"
+Jinja2 = "*"
+texttable = "*"
